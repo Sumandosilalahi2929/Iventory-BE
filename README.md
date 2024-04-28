@@ -1,4 +1,4 @@
 # Sistem Inventory Barang
 
-## Authors
+## 
 
